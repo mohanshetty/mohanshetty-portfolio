@@ -221,6 +221,13 @@ a:hover {
   transition: all 500ms ease;
 }
 
+.ico-circle {
+  font-family: 'Arial', Helvetica, sans-serif;
+}
+.ion-ios-clock-outline {
+  font-family: 'Arial', Helvetica, sans-serif;
+}
+
 .socials .ico-circle:hover {
   background-color: #24b67e;
   color: #fff;
@@ -861,6 +868,7 @@ a:hover {
   margin: 0 auto;
   border-radius: 50%;
   line-height: 1.6;
+  font-family: 'Arial', Helvetica, sans-serif;
 }
 
 /*======================================
